@@ -56,6 +56,7 @@ used the Twitter Sentiment dataset containing tweets labeled with sentiment (Pos
 1. Clone the repo
 2. Place `twitter_training.csv` in the root directory
 3. Run `SentimentAnalysis_Twitter.ipynb` in Jupyter or Colab
-
+   
+🌐 [LinkedIn](https://www.linkedin.com/posts/bhavesh-uchainiya-734651136_datascience-sentimentanalysis-nlp-activity-7348318938650312704-HgmD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEzB9gB68oVgeCqSHu01XNoWfb_ViJtAeg)
 ---
 
